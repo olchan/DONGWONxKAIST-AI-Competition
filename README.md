@@ -49,18 +49,13 @@ LLM은 상대적 선호 비교에는 강하지만, 절대적인 수요 규모(Sc
 - https://www.hbs.edu/ris/Publication%20Files/23-062_6bfe7a5b-3ed9-4afd-a4c1-c91b60dd82e5.pdf  
 
 
-![Dongwon PPT](https://github.com/olchan/DONGWONxKAIST-AI-Competition/blob/main/Dongwon%20PPT.png?raw=true)
 
-![Dongwon PPT](https://github.com/olchan/DONGWONxKAIST-AI-Competition/blob/main/Dongwon%20PPT%20(1).png?raw=true)
 
-![Dongwon PPT](https://github.com/olchan/DONGWONxKAIST-AI-Competition/blob/main/Dongwon%20PPT%20(2).png?raw=true)
-
-![Dongwon PPT](https://github.com/olchan/DONGWONxKAIST-AI-Competition/blob/main/Dongwon%20PPT%20(3).png?raw=true)
-
-![Dongwon PPT](https://github.com/olchan/DONGWONxKAIST-AI-Competition/blob/main/Dongwon%20PPT%20(4).png?raw=true)
-
-![Dongwon PPT](https://github.com/olchan/DONGWONxKAIST-AI-Competition/blob/main/Dongwon%20PPT%20(5).png?raw=true)
-
-![Dongwon PPT](https://github.com/olchan/DONGWONxKAIST-AI-Competition/blob/main/Dongwon%20PPT%20(6).png?raw=true)
-
-![Dongwon PPT](https://github.com/olchan/DONGWONxKAIST-AI-Competition/blob/main/Dongwon%20PPT%20(7).png?raw=true)
+<img width="1920" height="1080" alt="Dongwon PPT" src="https://github.com/user-attachments/assets/171c34c2-5b25-4a75-a77a-ed5099cc33ae" />
+<img width="1920" height="1080" alt="Dongwon PPT (1)" src="https://github.com/user-attachments/assets/577fd3aa-efea-463f-b16a-2fd28ea7959c" />
+<img width="1920" height="1080" alt="Dongwon PPT (2)" src="https://github.com/user-attachments/assets/4a37cf79-9045-4068-8dd4-f1f22da5d603" />
+<img width="1920" height="1080" alt="Dongwon PPT (3)" src="https://github.com/user-attachments/assets/c7f2b695-ded5-4bf5-b0cc-f394241ca7b8" />
+<img width="1920" height="1080" alt="Dongwon PPT (4)" src="https://github.com/user-attachments/assets/2143b477-69bf-4ff9-b76f-8838bc185225" />
+<img width="1920" height="1080" alt="Dongwon PPT (5)" src="https://github.com/user-attachments/assets/62a8f35b-95c4-450a-97a5-8a60f5bfe2c8" />
+<img width="1920" height="1080" alt="Dongwon PPT (6)" src="https://github.com/user-attachments/assets/0d3eb6dd-7db8-450e-90f2-356176a9b26c" />
+<img width="1920" height="1080" alt="Dongwon PPT (7)" src="https://github.com/user-attachments/assets/db0891b8-3215-41b8-975f-4f599364f12d" />
