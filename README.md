@@ -1,7 +1,7 @@
 # 🥇 2025 DONGWON x KAIST AI Competition 대상 수
 : **Statistical Modeling + LLM Simulation 기반 4STAGE 수요 예측 전략**
 
-<img src="https://github.com/olchan/DONGWONxKAIST-AI-Competition/blob/main/dongwon.png?raw=true" width="400"/>
+<img width="400" alt="dongwon" src="https://github.com/user-attachments/assets/0552e49d-d64a-4d9e-b902-56cd575b67ac" />
 
 ## 🎥 발표 영상
 <div>
