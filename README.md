@@ -39,4 +39,14 @@ LLM은 상대적 선호 비교에는 강하지만, 절대적인 수요 규모(Sc
 
 ![Dongwon PPT](https://github.com/olchan/DONGWONxKAIST-AI-Competition/blob/main/Dongwon%20PPT.png?raw=true)
 
-![Dongwon PPT](https://github.com/olchan/DONGWONxKAIST-AI-Competition/blob/main/Dongwon%20PPT(1).png?raw=true)
+![Dongwon PPT](https://github.com/olchan/DONGWONxKAIST-AI-Competition/blob/main/Dongwon%20PPT%20(1).png?raw=true)
+
+![Dongwon PPT](https://github.com/olchan/DONGWONxKAIST-AI-Competition/blob/main/Dongwon%20PPT%20(2).png?raw=true)
+
+![Dongwon PPT](https://github.com/olchan/DONGWONxKAIST-AI-Competition/blob/main/Dongwon%20PPT%20(3).png?raw=true)
+
+![Dongwon PPT](https://github.com/olchan/DONGWONxKAIST-AI-Competition/blob/main/Dongwon%20PPT%20(4).png?raw=true)
+
+![Dongwon PPT](https://github.com/olchan/DONGWONxKAIST-AI-Competition/blob/main/Dongwon%20PPT%20(5).png?raw=true)
+
+![Dongwon PPT](https://github.com/olchan/DONGWONxKAIST-AI-Competition/blob/main/Dongwon%20PPT%20(6).png?raw=true)
