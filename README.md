@@ -35,3 +35,8 @@ LLM은 상대적 선호 비교에는 강하지만, 절대적인 수요 규모(Sc
 - LLM이 반복적인 응답 생성을 통해 "응답 분포"를 형성하며, 실제 소비자 설문과 유사한 WTP 추정이 가능함을 실증적으로 확인
  👉 기존 연구에서 제시된 한계(LLM의 bias 및 variability)를 고려하여, 본 프로젝트에서는 LLM을 "상대적 선호 추정"에만 사용하고 절대 수요(Scale)는 통계 분석 방식으로 분리하여 전체 예측값을 도출하였다.
 - https://www.hbs.edu/ris/Publication%20Files/23-062_6bfe7a5b-3ed9-4afd-a4c1-c91b60dd82e5.pdf  
+
+
+![Dongwon PPT](https://github.com/olchan/DONGWONxKAIST-AI-Competition/blob/main/Dongwon%20PPT.png?raw=true)
+
+![Dongwon PPT](https://github.com/olchan/DONGWONxKAIST-AI-Competition/blob/main/Dongwon%20PPT(1).png?raw=true)
