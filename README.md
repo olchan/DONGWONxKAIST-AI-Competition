@@ -6,7 +6,9 @@
 ## 🎥 발표 영상
 <div>
   <a href="https://www.youtube.com/live/dk7gubnleaI?si=VocQFSGNO05iLjUS&t=14081">
-    <img src="https://img.youtube.com/vi/dk7gubnleaI/0.jpg" width="400"/>
+    <img width="400" alt="image" src="https://github.com/user-attachments/assets/49ecea93-f83a-43cd-8a6a-e6c3a46ecaa1" />
+"/>
+" width="400"/>
   </a>
   <br/>
 </div> 
